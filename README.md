@@ -22,3 +22,7 @@ The southernmost country in Asia, Indonesia lies between latitudes 11°S and 6°
 ## Climate
 
 Indonesia's equatorial position ensures a relatively stable climate year-round,[81] characterised by two main seasons: dry season from May to October and wet season from November to April, with no extremes of summer and winter.[82] The climate is predominantly tropical rainforest, with cooler climates in mountainous areas over 1,300 to 1,500 metres (4,300 to 4,900 feet) above sea level. The oceanic climate (Köppen Cfb) prevails in highland areas adjacent to rainforest climates, with uniform precipitation year-round.
+
+## Government and politics
+
+Indonesia is a republic with a presidential system. Following the fall of the New Order in 1998, sweeping constitutional reforms has restructured the executive, legislative, and judicial branches while maintaining its unitary state framework despite the push to decentralise powers to regional entities.[130][131] The President serves as head of state, head of government, and commander-in-chief of the Armed Forces (Tentara Nasional Indonesia, TNI) and overseeing domestic and foreign policies. Presidents may serve up to two consecutive five-year terms.
