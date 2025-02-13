@@ -18,3 +18,7 @@ After 1900, Indonesia became more common in academic circles outside the Netherl
 ## Geography
 
 The southernmost country in Asia, Indonesia lies between latitudes 11°S and 6°N and longitudes 95°E and 141°E. It is also a transcontinental country, spanning Southeast Asia and Oceania and is the world's largest archipelagic state, stretching 5,120 kilometres (3,181 mi) from east to west and 1,760 kilometres (1,094 mi) from north to south.[76] According to the Coordinating Ministry for Maritime and Investment Affairs, Indonesia consists of 17,504 islands, with 16,056 registered at the UN and around 922 permanently inhabited.[77][78] Its five largest islands are Sumatra, Java, Borneo (shared with Brunei and Malaysia), Sulawesi, and New Guinea (shared with Papua New Guinea).[79]
+
+## Climate
+
+Indonesia's equatorial position ensures a relatively stable climate year-round,[81] characterised by two main seasons: dry season from May to October and wet season from November to April, with no extremes of summer and winter.[82] The climate is predominantly tropical rainforest, with cooler climates in mountainous areas over 1,300 to 1,500 metres (4,300 to 4,900 feet) above sea level. The oceanic climate (Köppen Cfb) prevails in highland areas adjacent to rainforest climates, with uniform precipitation year-round.
